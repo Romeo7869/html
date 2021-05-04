@@ -1,0 +1,228 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	max-width: 100%;
+	height: 66px;
+	background: white;
+}
+.logo{
+	margin-left: 124px;
+    padding-top: 19px;
+    height: 30px;
+}
+.menu{
+	text-align: right;
+    margin-right: 92px;
+    margin-top: -27px;
+    font: caption;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+.menu ul li{
+	display: inline-block;
+    width: 95px;
+    /* height: 63px; */
+    text-align: center;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: #d70f64;
+}
+.intro{
+	    background: url(../image/fd3.jpg);
+    /* background-size: 100%; */
+    /* height: 632px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    background-attachment: inherit;
+
+}
+.image{
+	text-align: center;
+   padding-top: 316px;
+    width: 524px;
+    margin-left: 361px;
+    color: white;
+    font-size: 42px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-weight: normal;
+}
+.border{
+	background: rgba(0, 0, 0, 0.3);
+	height: 58px;
+    margin-top: 164px;
+}
+.border span{
+	margin-left: 76px;
+    color: white;
+    font-size: 12px;
+    font-family: monospace;
+}
+.border a {
+	text-decoration: none;
+	padding: 8px;
+}
+.border a img{
+	border-radius: 3px;
+    height: 30px;
+}
+.about{
+	min-width: 100%;
+	height: 400px;
+	background:white;
+}
+.about1{
+	    width: 90%;
+   /* border: 1px solid black;*/
+    height: 220px;
+    margin: auto;
+    padding-top: 65px;
+}
+.about2{
+	text-align: center;
+    font-size: 19px;
+}
+.about2 h2{
+	font-family: monospace;
+    letter-spacing: 1px;
+    font-weight: 100;
+    color: #d70f64;
+}
+.about2 p{
+	    width: 617px;
+    margin-left: 252px;
+    margin-top: 19px;
+  font: message-box;
+        line-height: 30px;
+    color: black;
+}
+.button1{
+	width: 21%;
+    height: 54px;
+    margin-top: 43px;
+    background: #d70f64;
+    border: 0px solid;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.bgimage{
+	height: 1500px;
+    background-image: url(https://www.foodpanda.com/wp-content/uploads/2021/01/foodpanda-rider-opt.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    /* margin: auto; */
+    /*position: inherit;*/
+    text-align: center;
+    background-attachment: fixed;
+}
+.bgimage h1{
+	padding-top: 388px;
+    letter-spacing: 1px;
+    font: message-box;
+    font-size: 23px;
+    font-weight: 600;
+    color: #d70f64;
+}
+.bgimage p{
+	padding-top: 29px;
+    color: white;
+    /* font-size: 29px; */
+    font: message-box;
+    font-size: 19px;
+}
+.bgimage1{
+	height: 1280px;
+    background-image: url(https://www.foodpanda.com/wp-content/uploads/2021/01/foodpanda-tuna-opt-scaled.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    /* margin: auto; */
+   /* position: inherit;*/
+   text-align: center;
+   background-attachment: fixed;
+}
+.bgimage1 h2{
+	padding-top: 482px;
+    letter-spacing: 1px;
+    font: message-box;
+    font-weight: 500;
+    font-size: 27px;
+    color: #d70f64;
+}
+.bgimage1 p{
+	width: 641px;
+    padding-left: 352px;
+    padding-top: 12px;
+    font-size: larger;
+    /* font: message-box; */
+    line-height: 25px;
+    color: white;
+}
+.contact{
+	max-width: 100%;
+	height: 400px;
+	background: #d70f64;
+}
+.contact1{
+	max-width:90%;
+	/*height: 196px;*/
+	/*border: 1px solid black;*/
+	margin: auto;
+	padding-top: 80px;
+}
+.contact2{
+	text-align: center;
+    font-size: 19px;
+}
+.contact2 h2{
+	font-family: monospace;
+    letter-spacing: 1px;
+    font-weight: 100;
+    color: white;
+}
+.contact2 p{
+	    width: 715px;
+    margin-left: 198px;
+    margin-top: 22px;
+    font-family: "museo-sans", sans-serif;
+    font-weight: unset;
+        line-height: 30px;
+    color: white;
+}
+.button{
+	width: 20%;
+    height: 50px;
+    background: white;
+    color: #d70f64;
+    margin-top: 47px;
+    border: 1px solid;
+    font-size: 16px;
+    font: message-box;
+    letter-spacing: 2px;
+}
+.footer{
+	width: 100%;
+	height: 130px;
+	float: right;
+	background: white;
+}
+.footer1{    
+     width: 90%;
+    height: 69px;
+   /* border: 1px solid black;*/
+    margin: auto;
+    margin-top: 30px;
+}
+.icon{
+	text-decoration: none;
+	color:#d70f64;
+	float: right;
+	margin-right: 15px; 
+}
+
+
+

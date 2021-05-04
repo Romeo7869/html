@@ -1,0 +1,131 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	width: 100%;
+	height: 91px;
+	background: #1ebea5;
+}
+.logo{
+	    margin: 22px;
+        margin-left: 94px;
+        height: 46px;
+}
+.menu{
+	margin-left: 334px;
+    margin-top: -57px;
+}
+.menu a{
+	margin-left: 41px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.contant{
+	width: 498px;
+    height: 420px;
+    margin-top: 251px;
+    margin-left: 138px;
+    font-size: 20px;
+    float: left;
+    line-height: 39px;
+}
+.mobileimage{
+	float: right;
+    width: 318px;
+    height: 599px;
+     margin-right: 235px;
+    margin-top: 70px;
+}
+
+.divcontant{
+   width: 619px;
+    height: 719px;
+    border: 0px solid;
+   /* color: rgb(208 233 234);*/
+    float: left;
+    margin: 5px;
+    margin-top: 108px;
+    background: rgb(208 233 234);
+}
+.divcontant a{
+    text-decoration: none;
+    color: #39b3ed;
+}
+
+.divcontant p{
+    /*text-align: center;
+    margin: auto;
+    line-height: 1.5;
+    width: 605px;*/
+    font-family: -webkit-pictograph;
+    margin-left: 34px;
+    margin-right: 35px;
+    margin-top: 21px;
+    font-size: 15px;
+    text-align: center;
+}
+.button{
+       background: white;
+    border: 2px solid #77d7c8;
+    width: 227px;
+    height: 51px;
+    border-radius: 50px;
+    margin-left: 541px;
+    margin-top: 78px;
+    font-size: 14px;
+    color: #1ebea5;
+    /* font-weight: bold; */
+    display: inline-block;
+}
+.footer{
+    width: 100%;
+    height: 311px;
+    background:rgba(39,52,67,1);
+    float: right;
+    margin-top: 84px;
+}
+.footer1{
+  /* border: 1px solid;*/
+    width: 184px;
+    height: 276px;
+    margin-left: 91px;
+    margin-top: 40px;
+    float: left;
+    line-height: 28px;
+}
+.footer h2{
+    font: message-box;
+    font-weight: bold;
+    margin-bottom: 21px;
+    color: rgba(255, 255, 255, .6);
+    font-size: 12px;
+}
+.footer1 a{
+    font: message-box;
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+}
+.blowfooter{
+    width: 100%;
+    height: 60px;
+    background: rgba(35,47,60,1);
+    float: right;
+}
+.blowfooter p{
+    color: rgba(169,174,180,1);
+    margin-left: 143px;
+    padding-top: 22px;
+    font: message-box;
+    font-size: 13px;
+}
+.blowfooter a{
+    color: white;
+    text-decoration: none;
+    margin-left: 92px;
+    font: message-box;
+    font-size: 13px;
+}
